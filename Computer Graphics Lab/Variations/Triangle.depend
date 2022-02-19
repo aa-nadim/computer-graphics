@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569865398 source:c:\users\dell\desktop\triangle\main.cpp
+	<graphics.h>
+	<iostream>
+	<cmath>
+

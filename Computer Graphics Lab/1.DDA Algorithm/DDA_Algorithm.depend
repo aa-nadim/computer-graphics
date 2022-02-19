@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568816998 source:c:\users\dell\desktop\computer graphics lab\main.cpp
+	<graphics.h>
+	<iostream>
+	<cmath>
+
